@@ -44,7 +44,6 @@ Plagiarism-checker-Python/
 ├── news_plagiarism_report.csv
 ├── requirements.txt
 ├── README.md
-└── pictures/
 ```
 
 ---
